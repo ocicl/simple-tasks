@@ -4,6 +4,6 @@ A very simple task scheduling framework.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shinmera/simple-tasks.git |
-| commit  | 918553c                                          |
+| commit  | a5c13f1                                          |
 | systems | simple-tasks                                     |
 |---------+--------------------------------------------------|
