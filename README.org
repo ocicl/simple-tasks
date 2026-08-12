@@ -6,4 +6,4 @@ A very simple task scheduling framework.
 | source  | git:https://codeberg.org/shinmera/simple-tasks.git |
 | commit  | fc6f369                                          |
 | systems | simple-tasks                                     |
-|---------+--------------------------------------------------|
+|---------+--------------------------------------------------| 
